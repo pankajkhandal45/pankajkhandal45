@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Khandal</h1>
+<p align="center"> <img src="IMG_20230326_141431_750.jpg" width="180" style="border-radius:50%;" alt="Pankaj Khandal"/> </p>
 <h3 align="center">🚀 Full Stack Developer • AI Enthusiast • Open Source Contributor</h3>
 
 <p align="center">
